@@ -1,0 +1,58 @@
+commit b6b4623c83218d02b28905758cdbf391044789f2
+Merge: 83814eb 964d19c
+Author: Krystal Lo <klo16@calstatela.edu>
+Date:   Fri Jan 31 13:23:42 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit 964d19c66fcb253dee459aa2573d26f9a184ee0f
+Author: Krystal Lo <klo16@calstatela.edu>
+Date:   Fri Jan 31 13:22:45 2025 -0800
+
+    Updated index.html
+
+commit 83814ebc3c25513ec644b401e688cfa4c11169e5
+Author: Krystal Lo <klo16@calstatela.edu>
+Date:   Fri Jan 31 13:21:37 2025 -0800
+
+    Updated index.html in main
+
+commit 8036cd3aa805e16fd35557dcbeaa7ae16a7f3de9
+Merge: 6784c6d b38a276
+Author: Krystal Lo <klo16@calstatela.edu>
+Date:   Fri Jan 31 13:11:30 2025 -0800
+
+    Merge branch 'main' of https://github.com/kLo1215/CS3338-second-project
+
+commit 6784c6dc5ad0a502e5223cd82fe51abd38c82129
+Author: Krystal Lo <klo16@calstatela.edu>
+Date:   Fri Jan 31 13:10:18 2025 -0800
+
+    Created README.md
+
+commit 041178bfd47264173e882844b6018b4a6827f847
+Author: Krystal Lo <klo16@calstatela.edu>
+Date:   Fri Jan 31 13:06:28 2025 -0800
+
+    Created README.md
+
+commit b38a2763cb954d705c7892bc2e068f51237b5588
+Merge: 1d2bfc0 c13bb65
+Author: kLo1215 <klo16@calstatela.edu>
+Date:   Fri Jan 31 13:05:34 2025 -0800
+
+    Merge pull request #1 from kLo1215/info-fill
+    
+    Updated index.html
+
+commit c13bb65091cafec902bf1f95bdde1378a5ef4269
+Author: Krystal Lo <klo16@calstatela.edu>
+Date:   Fri Jan 31 13:01:07 2025 -0800
+
+    Updated index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
